@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Idle Ramblings of a Wandering Mind
+title: Home of the clarifyR package
 
 # Short description of your site
-description: Online Home of Sanjeev Kumar
+description: Building Teaching Tools for Big Data Analytics on R at Ross School of Business, Univ. of Michigan
 
 # --- Navigation bar options --- #
 
